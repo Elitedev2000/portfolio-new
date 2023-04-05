@@ -170,7 +170,7 @@
   box-sizing: border-box;
 }
 
-.logo-font {
+.header__logo a {
   font-size: 75px;
   color: #fff;
   cursor: pointer;
@@ -629,7 +629,7 @@ img {
   transition: transform 0.8s 0s, -webkit-transform 0.8s 0s,
     -moz-transform 0.8s 0s;
 }
-.header.animate-out .header__logo img,
+.header.animate-out,
 .header.animate-out .header__buttons {
   opacity: 0;
   -webkit-transform: translateX(-100px);
