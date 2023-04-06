@@ -3787,7 +3787,7 @@ form .inputs-description {
   transform: translateY(-50%);
   width: 100%;
   height: auto;
-  padding: 1.5rem;
+  /* padding: 4.5rem; */
 }
 
 .feature__descr {
