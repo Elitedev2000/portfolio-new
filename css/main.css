@@ -170,10 +170,9 @@
   box-sizing: border-box;
 }
 
-.header__logo a {
+.header__logo {
   font-size: 75px;
   color: #fff;
-  cursor: pointer;
   font-family: "Great Vibes", cursive;
 }
 
@@ -2557,12 +2556,12 @@ form .inputs-description {
   padding-top: 0.4rem;
 }
 @media only screen and (max-width: 768px) {
-  .header__logo a {
+  .header__logo {
     font-size: 45px;
   }
 }
 @media only screen and (max-width: 1199px) {
-  .header__logo a {
+  .header__logo {
     font-size: 55px;
   }
 }
