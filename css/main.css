@@ -4159,6 +4159,8 @@ form .inputs-description {
   overflow: hidden;
   cursor: pointer;
   margin-bottom: 3rem;
+  width: 100%;
+  height: 100%;
 }
 .my-gallery__item:last-of-type {
   margin-bottom: 0;
